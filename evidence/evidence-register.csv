@@ -1,0 +1,7 @@
+evidence_id,control,evidence_type,status,supported_claim,remaining_evidence
+E01,PIM,implementer confirmation,documented,configuration settings,sanitized policy and assignment evidence
+E02,Conditional Access,implementer confirmation,documented,policy on and MFA required,authentication context targeting and activation evaluation
+E03,Role reviews,report plus confirmation,reported running,scope and schedule,sanitized running instance and completed decisions
+E04,Group reviews,report plus confirmation,reported running,eligible and active membership coverage,sanitized instance coverage and completed decisions
+E05,Guest reviews,report plus confirmation,reported running,90 day threshold,precise resource scope and review results
+E06,Remediation,none,pending,no completed remediation claimed,before and after access verification

@@ -1,0 +1,11 @@
+# Exclude raw sources and local credentials
+raw/
+private/
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.docx
+*.log
+__pycache__/

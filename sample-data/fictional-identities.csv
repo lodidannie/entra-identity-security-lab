@@ -1,0 +1,9 @@
+fictional_name,synthetic_email,scenario_role,illustrative_state,deployed
+Alex Morgan,alex.morgan@northstar.example,Infrastructure Lead,reviewer,false
+Jordan Ellis,jordan.ellis@northstar.example,Cybersecurity Specialist,reviewer,false
+Taylor Reed,taylor.reed@northstar.example,Cloud administrator,eligible,false
+Casey Patel,casey.patel@northstar.example,Service desk administrator,eligible,false
+Morgan Chen,morgan.chen@northstar.example,Endpoint engineer,eligible,false
+Riley Brooks,riley.brooks@northstar.example,Former support team member,review candidate,false
+Avery Stone,avery.stone@northstar.example,Guest collaborator,active illustrative,false
+Quinn Harper,quinn.harper@northstar.example,Guest collaborator,inactive illustrative,false
